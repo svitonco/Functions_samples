@@ -18,4 +18,5 @@ operacion = input("Introduzca el signo de la operacion deseada (+-*/)")
 
 resultado = calcular (a, b, operacion)
 print (f"Resultado de la operacion: {resultado}")
+print (f"este es el {resultado*2}")
 
